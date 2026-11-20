@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:e34c26&height=170&section=header&text=V%C3%ADctor%20Hugo%20L%C3%B3pez&fontSize=42&fontColor=ffffff&desc=Software%20Engineer%20%C2%B7%20Java%20%C2%B7%20Event-Driven%20Systems&descAlignY=72&animation=fadeIn" alt="header" />
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E34C26&center=true&vCenter=true&width=600&lines=Backend+engineer+from+Oaxaca%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus+%E2%80%A2+Kafka;Microservices+%26+data+pipelines+at+scale;Mountain+biker+%26+marathon+rider+%F0%9F%9A%B5" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=E34C26&center=true&vCenter=true&width=600&lines=Backend+engineer+from+Oaxaca%2C+M%C3%A9xico+%F0%9F%87%B2%F0%9F%87%BD;Freelancer+%E2%80%94+open+to+new+projects;Java+%E2%80%A2+Spring+Boot+%E2%80%A2+Quarkus+%E2%80%A2+Kafka;Microservices+%26+data+pipelines+at+scale;Mountain+biker+%26+marathon+rider+%F0%9F%9A%B5" alt="Typing SVG" /></a>
 
 <a href="https://www.linkedin.com/in/v%C3%ADctor-hugo-l%C3%B3pez-p%C3%A9rez-b3b83b87"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <img src="https://komarev.com/ghpvc/?username=karmicc&style=for-the-badge&color=e34c26&label=Profile+views" alt="Profile views" />
@@ -17,7 +17,8 @@
 - 🔄 I specialize in **microservices, event-driven pipelines and data integration**: Kafka consumers/producers, change detection, idempotent upserts and legacy migrations.
 - 🏦 I've shipped software for **retail, banking and e-invoicing (CFDI)** platforms, from Walmart's product master data to bank transfer APIs.
 - 🌱 Currently learning **Flutter** and going deeper into **cloud-native** architectures.
-- 🤝 Open to collaborating on backend services, APIs and apps.
+- 🧑‍💻 Currently working as a **freelance software engineer**.
+- 🤝 **Open to freelance projects**: backend services, APIs, data integrations and apps. Reach me on LinkedIn.
 - 🚵 Off the keyboard you'll find me on a **mountain bike**: I ride **MTB marathons** around Oaxaca.
 
 > *"Programs are meant to be read by humans and only incidentally for computers to execute."* — Donald Knuth
@@ -28,6 +29,7 @@
 
 | Role | Company | Highlights |
 |------|---------|------------|
+| **Freelance Software Engineer** | Independent · *2026–present* | Building backend services, APIs and integrations for clients. **Available for new projects.** |
 | **Software Engineer III** | Walmart de México y Centroamérica · *2025–2026* | Owned a Java 21 / Spring Boot change-detection pipeline over millions of products, publishing events to **Kafka**; migrated logic from a legacy Informix 4GL system; ran services on **Kubernetes (WCNP)**. |
 | **Software Engineer III** | Babel Group · *2025* | **Quarkus** microservices with **hexagonal architecture**, WSO2 API Manager, Oracle stored procedures, OpenShift. |
 | **Java Developer Sr** | Methods Technologies · *2024–2025* | Spring Boot middleware, incident RCA with **AWS** logs, Checkmarx and SonarQube, GitLab CI/CD. |
