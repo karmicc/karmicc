@@ -29,7 +29,7 @@
 
 | Role | Company | Highlights |
 |------|---------|------------|
-| **Freelance Software Engineer** | Independent · *2026–present* | Building backend services, APIs and integrations for clients. **Available for new projects.** |
+| **Freelance Software Engineer** | Independent · *Nov 2026–present* | 🎧 **Voice coach app for MTB** riders · 🌐 **Website for the Anima2 cycling club** · 🩺 **Management platform for a physiotherapy clinic** (in discovery). **Available for new projects.** |
 | **Software Engineer III** | Walmart de México y Centroamérica · *2025–2026* | Owned a Java 21 / Spring Boot change-detection pipeline over millions of products, publishing events to **Kafka**; migrated logic from a legacy Informix 4GL system; ran services on **Kubernetes (WCNP)**. |
 | **Software Engineer III** | Babel Group · *2025* | **Quarkus** microservices with **hexagonal architecture**, WSO2 API Manager, Oracle stored procedures, OpenShift. |
 | **Java Developer Sr** | Methods Technologies · *2024–2025* | Spring Boot middleware, incident RCA with **AWS** logs, Checkmarx and SonarQube, GitLab CI/CD. |
